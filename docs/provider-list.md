@@ -71,6 +71,7 @@ provided to help community members support their code independently.
 
 Maintainers of contributed providers:
 
+* `AXFRDDNS` @hnrgrgr
 * `CLOUDNS` @pragmaton
 * `DIGITALOCEAN` @Deraen
 * `DNSIMPLE` @aeden
