@@ -2,7 +2,7 @@ module github.com/StackExchange/dnscontrol/v3
 
 go 1.18
 
-require gopkg.in/yaml.v3 v3.0.0 // indirect
+require gopkg.in/yaml.v3 v3.0.1 // indirect
 
 require (
 	github.com/Azure/azure-sdk-for-go v65.0.0+incompatible
@@ -21,7 +21,7 @@ require (
 	github.com/babolivier/go-doh-client v0.0.0-20201028162107-a76cff4cb8b6
 	github.com/bhendo/go-powershell v0.0.0-20190719160123-219e7fb4e41e
 	github.com/billputer/go-namecheap v0.0.0-20210108011502-994a912fb7f9
-	github.com/cloudflare/cloudflare-go v0.40.0
+	github.com/cloudflare/cloudflare-go v0.41.0
 	github.com/digitalocean/godo v1.80.0
 	github.com/ditashi/jsbeautifier-go v0.0.0-20141206144643-2520a8026a9c
 	github.com/dnsimple/dnsimple-go v0.70.1
@@ -47,7 +47,7 @@ require (
 	github.com/qdm12/reprint v0.0.0-20200326205758-722754a53494
 	github.com/robertkrimen/otto v0.0.0-20211024170158-b87d35c0b86f
 	github.com/softlayer/softlayer-go v1.0.5
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.7.2
 	github.com/tdewolff/minify/v2 v2.11.7
 	github.com/transip/gotransip/v6 v6.17.0
 	github.com/urfave/cli/v2 v2.8.1
