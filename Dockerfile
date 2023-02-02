@@ -1,4 +1,4 @@
-FROM golang:1.18.3-alpine3.16@sha256:7cc62574fcf9c5fb87ad42a9789d5539a6a085971d58ee75dd2ee146cb8a8695 AS build
+FROM golang:1.20.0-alpine3.16@sha256:86eb22dea4141189e5656abd0616880387f0515a8d17ee1ef4b2ac79eb6e4ded AS build
 
 WORKDIR /go/src/github.com/StackExchange/dnscontrol
 
